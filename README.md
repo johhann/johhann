@@ -7,7 +7,6 @@ Senior Software Developer
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [yohannesmak.com](http://yohannesmak.com)
 * ✉️  You can contact me at [contact@yohannesmak.com](mailto:contact@yohannesmak.com)
-* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on intersting projects
 
 ### Skills
