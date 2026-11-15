@@ -2,7 +2,7 @@
 
 **Senior Software Developer at [Mereb Tech](https://github.com/Mereb-Tech)** · Addis Ababa, Ethiopia
 
-I build backend and full-stack systems with **PHP/Laravel**, **Go**, **TypeScript/Node.js** and **React**: payment integrations, gRPC and REST APIs, business platforms for the Ethiopian market. I work AI-first, using coding agents like Claude Code in my daily workflow to ship faster. Lately I also write small, dependency-free command-line tools.
+I build backend and full-stack systems with **PHP/Laravel**, **Go**, **TypeScript/Node.js** and **React**: payment integrations, gRPC and REST APIs, and business platforms for the Ethiopian market. I work AI-first, using coding agents like Claude Code in my daily workflow to ship faster. Lately I also write small, dependency-free command-line tools.
 
 [![Website](https://img.shields.io/badge/yohannesmak.com-0891b2?style=flat&logo=googlechrome&logoColor=white)](https://yohannesmak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes1219)
