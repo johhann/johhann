@@ -15,8 +15,6 @@ I build backend systems in **PHP/Laravel** and **Go**: payment integrations, API
 | Project | What it is |
 |---|---|
 | [**telebirr**](https://github.com/johhann/telebirr) [![Packagist](https://img.shields.io/packagist/dt/johhann/telebirr?label=installs&style=flat-square)](https://packagist.org/packages/johhann/telebirr) | Laravel package for **Telebirr**, Ethiopia's largest mobile-money platform. Install with `composer require johhann/telebirr`. |
-| [**sms-ethiopia-developer-doc**](https://github.com/jaktechet/sms-ethiopia-developer-doc) | Integration guide for the SMS Ethiopia gateway, with examples in several languages and frameworks. |
-| [**fleetbase-vendor-for-suppliers**](https://github.com/johhann/fleetbase-vendor-for-suppliers) | Vendor-management extension for the open-source Fleetbase logistics platform: CRUD plus QR-code verification (Laravel + Ember.js). |
 | [**passgen**](https://github.com/johhann/password-generator) | Offline password, passphrase and PIN generator. One Bash script, no dependencies, tested in CI. |
 | [**storage-cleaner**](https://github.com/johhann/storage-cleaner) | Safe macOS cleanup script. It scans first, lets you pick from a checklist and changes nothing until you confirm. |
 | [**php-grpc**](https://github.com/johhann/php-grpc) | gRPC service in PHP (Spiral) with a React client, all in Docker. |
