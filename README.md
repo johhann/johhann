@@ -23,10 +23,10 @@ I build backend and full-stack systems with **PHP/Laravel**, **Go**, **TypeScrip
 
 [![Stack](https://skillicons.dev/icons?i=php,laravel,go,ts,js,nodejs,express,react,vue,graphql,python,mysql,postgres,mongodb,redis,docker,linux,bash,githubactions,gcp&perline=10)](https://skillicons.dev)
 
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST_APIs-0891b2?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-7c3aed?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <!-- streak-stats.demolab.com is the current home of github-readme-streak-stats (the Heroku URL is legacy) -->
