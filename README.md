@@ -12,15 +12,15 @@ I build backend systems that stay fast under load: APIs, queues and cloud deploy
 
 ## Selected client work
 
-| Client · Market | What I built |
+| Market | What I built |
 |---|---|
-| **RealGaming** · 🇺🇸 USA | Backend for a real-time poker platform: Node.js/TypeScript services talking over gRPC, RabbitMQ queues, MinIO storage and CI/CD on AWS. Low-latency play under peak concurrent load. |
-| **Gateway Tax** · 🇺🇸 USA | Tax application and management platform: client onboarding, document handling and workflow automation (Laravel, FilamentPHP). |
-| **EAGate Group** · 🌍 East Africa (Addis Ababa, Nairobi, Paris) | Candidate management platform with LLM-powered CV extraction and job matching (Laravel). |
-| **SMS Ethiopia** · 🇪🇹 Ethiopia | Bulk-messaging backend used by 100+ enterprise clients, with 25% better delivery efficiency. |
-| **Rungoo** · 🇪🇹 Ethiopia | Beverage-delivery platform: customer and driver app APIs, dispatch and real-time tracking. Covered 75% of Addis Ababa at launch. |
-| **Novas Booking** · Hospitality | Hotel booking with Stripe and SantimPay payment orchestration. |
-| **e-Rad** · Healthcare | Tele-radiology platform for remote regions (Node.js, TypeScript, Prisma). |
+| 🇺🇸 **USA** · Gaming | Backend for a real-time poker platform: Node.js/TypeScript services talking over gRPC, RabbitMQ queues, object storage and CI/CD on AWS. Low-latency play under peak concurrent load. |
+| 🇺🇸 **USA** · Tax services | Tax application and management platform: client onboarding, document handling and workflow automation (Laravel, FilamentPHP). |
+| 🌍 **East Africa** · HR & recruitment | Candidate management platform for a consulting firm with offices in three countries, with LLM-powered CV extraction and job matching (Laravel). |
+| 🇪🇹 **Ethiopia** · Enterprise messaging | Bulk-messaging backend used by 100+ enterprise clients, with 25% better delivery efficiency. |
+| 🇪🇹 **Ethiopia** · Delivery & logistics | Delivery platform: customer and driver app APIs, dispatch and real-time tracking. Covered 75% of the capital at launch. |
+| Hospitality | Hotel booking with multi-gateway payment orchestration (Stripe and a local gateway). |
+| Healthcare | Tele-radiology platform for remote regions (Node.js, TypeScript, Prisma). |
 
 **Measured results:** up to **80%** faster legacy Laravel systems · **70%** faster API responses after a Node.js microservices refactor · **60%+** faster responses from indexing and Redis caching.
 
