@@ -4,12 +4,11 @@ I'm a senior backend engineer in Addis Ababa, Ethiopia. I build backend systems 
 
 **What I'm doing now**
 
-- Building real-time backend services for a US gaming platform at [Mereb Technologies](https://github.com/Mereb-Tech), with Node.js, TypeScript and gRPC
+- Building real-time backend services with Node.js, TypeScript, PHP, Go and gRPC
 - Making slow systems fast: I measure before and after, and have cut response times by up to 80% on real systems
 - Writing small, dependency-free tools that I actually use
 
 **Things I've made**
-
 - **[telebirr](https://github.com/johhann/telebirr)**: a Laravel package for Telebirr, Ethiopia's largest mobile-money platform
 - **[passgen](https://github.com/johhann/password-generator)**: strong passwords and passphrases in your terminal, offline, in one Bash script
 - **[storage-cleaner](https://github.com/johhann/storage-cleaner)**: a safe macOS cleanup script that shows you everything before it deletes anything
