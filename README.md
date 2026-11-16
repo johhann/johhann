@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer** · Senior Software Developer at [Mereb Technologies](https://github.com/Mereb-Tech) · Addis Ababa, Ethiopia · Remote
 
-I build backend systems that stay fast under load: APIs, queues and cloud deployments for teams that can't afford downtime. Over **5+ years** I've delivered SaaS platforms and high-availability applications with **PHP/Laravel**, **Node.js/TypeScript**, **Go** and **React** for **20+ clients across the USA, East Africa, India** and international remote teams. I work AI-first, using coding agents like Claude Code in my daily workflow to ship faster.
+I build backend systems that stay fast under load: APIs, queues and cloud deployments for products used in the 🇺🇸 USA, 🌍 East Africa, 🇮🇳 India and beyond. I work AI-first, with coding agents like Claude Code in my daily workflow.
 
 [![Website](https://img.shields.io/badge/yohannesmak.com-0891b2?style=flat&logo=googlechrome&logoColor=white)](https://yohannesmak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes1219)
@@ -10,32 +10,13 @@ I build backend systems that stay fast under load: APIs, queues and cloud deploy
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yohannes1219)
 [![Email](https://img.shields.io/badge/contact@yohannesmak.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@yohannesmak.com)
 
-## Selected client work
+## What I work on
 
-| Market | What I built |
-|---|---|
-| 🇺🇸 **USA** · Gaming | Backend for a real-time poker platform: Node.js/TypeScript services talking over gRPC, RabbitMQ queues, object storage and CI/CD on AWS. Low-latency play under peak concurrent load. |
-| 🇺🇸 **USA** · Tax services | Tax application and management platform: client onboarding, document handling and workflow automation (Laravel, FilamentPHP). |
-| 🌍 **East Africa** · HR & recruitment | Candidate management platform for a consulting firm with offices in three countries, with LLM-powered CV extraction and job matching (Laravel). |
-| 🇪🇹 **Ethiopia** · Enterprise messaging | Bulk-messaging backend used by 100+ enterprise clients, with 25% better delivery efficiency. |
-| 🇪🇹 **Ethiopia** · Delivery & logistics | Delivery platform: customer and driver app APIs, dispatch and real-time tracking. Covered 75% of the capital at launch. |
-| Hospitality | Hotel booking with multi-gateway payment orchestration (Stripe and a local gateway). |
-| Healthcare | Tele-radiology platform for remote regions (Node.js, TypeScript, Prisma). |
-
-**Measured results:** up to **80%** faster legacy Laravel systems · **70%** faster API responses after a Node.js microservices refactor · **60%+** faster responses from indexing and Redis caching.
-
-## Experience
-
-| Company | Role | Period |
-|---|---|---|
-| Mereb Technologies | Senior Software Developer | Jun 2025 – present |
-| Addis Finder Trading (SolveAddis) | Senior Full-Stack Developer (backend-focused) | Feb 2025 – present |
-| Droga Consulting PLC | Team Lead & Senior Software Developer | Jul 2024 – Feb 2025 |
-| Avetol ICT Consultant | Senior Software Developer (remote, part-time) | Dec 2023 – Dec 2024 |
-| AddWeb Solution Ltd · 🇮🇳 India | Senior Software Engineer (remote contract) | Apr 2022 – Jul 2022 |
-| Orange Digital Center Ethiopia | Backend Developer | Jul 2021 – Jan 2022 |
-
-The full history is on [yohannesmak.com](https://yohannesmak.com).
+- ⚡ **Real-time and high-traffic backends**: gRPC services, queues and event-driven systems on Node.js/TypeScript and Laravel
+- 💳 **Payments and integrations**: local and international payment gateways, messaging and third-party APIs
+- 🌍 **Products for international clients**: gaming and tax platforms in the US, HR tech in East Africa, remote work with teams in India
+- 📈 **Performance**: I measure before and after every change, with gains of up to 80% on real systems
+- 🤖 **AI-assisted development**: coding agents in my everyday workflow, plus LLM features where they help the product
 
 ## Open source
 
